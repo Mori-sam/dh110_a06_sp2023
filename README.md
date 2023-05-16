@@ -43,6 +43,7 @@ Shape Variation:
 
 ## Final Design
 There aren't many changes to the final design. I kept the font the same. After conducting a color contrast test, I darkened some interface colors. I also reduced the shape roundness to 20px since I think 30px is too much. This provides a balance between 10px and 30px.
+
 <img src="./final.png">
 
 ## Color Contrast
