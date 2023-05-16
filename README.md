@@ -46,4 +46,25 @@ There aren't many changes to the final design. I kept the font the same. After c
 <img src="./final.png">
 
 ## Color Contrast
+<img src="./ccall.png">
+<img src="./cccategory.png">
+<img src="./ccicon.png">
+<img src="./cctime.png">
+<img src="./ccchart.png">
+<img src="./cccontact.png">
+<img src="./ccsos.png">
+<img src="./ccmenu.png">
 
+## Desgin System
+<img src="./design.png">
+
+## Design Decisions
+Typeface Family:
+- When selecting a font for the TribeTrack interface, I carefully considered various options and ultimately decided on SF Pro. One of the main factors that influenced my decision was the fact that it is the default font for iOS systems. Given that a majority of smartphone users in the United States use iPhones, it makes sense to use a font that is already familiar to them. Furthermore, SF Pro is a highly legible and versatile font that can be used in a variety of contexts and applications. It has a modern and clean design that is well-suited to the TribeTrack interface, which is focused on providing users with a clear and concise user experience. 
+
+Color Scheme:
+- Orange is a warm color that provides people with a sense of comfort and is pleasing to the eye. Warm colors like orange are associated with feelings of happiness, and many believe that orange can stimulate creativity and enthusiasm. Additionally, orange is a perfect match for the theme of the app. Its vibrant and energetic nature perfectly represents the app's focus on family and orientation.  The app's background color is 2 degrees darker than plain white. This subtle difference in shade adds depth and dimension to the app's interface, making it more visually appealing and engaging for users. This small adjustment helps to create a more immersive experience for users, allowing them to fully engage with the app's content and features.
+Orange is a warm color that provides people with a sense of comfort and is pleasing to the eye. Warm colors like orange are associated with feelings of happiness, and many believe that orange can stimulate creativity and enthusiasm. Additionally, orange is a perfect match for the theme of the app. Its vibrant and energetic nature perfectly represents the app's focus on family and orientation.  The app's background color is 2 degrees darker than plain white. This subtle difference in shade adds depth and dimension to the app's interface, making it more visually appealing and engaging for users. This small adjustment helps to create a more immersive experience for users, allowing them to fully engage with the app's content and features.
+
+Layout Grid:
+- Since the app contains a wide range of settings, information, and customization options, it's important to have a layout that can accommodate all of these features without becoming overwhelming or cluttered. With this in mind, I've decided to increase the number of rows to 9 and columns to 4. By doing so, I can ensure that all of the app's functionality is easily accessible to users, while still maintaining a clean and intuitive design that is easy to navigate. Additionally, this increased layout capacity will allow for more features to be added in the future without sacrificing usability or user experience.
